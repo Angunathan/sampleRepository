@@ -12,6 +12,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // This is test command
+        /*
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git remote add origin https://github.com/Angunathan/sampleRepo.git
+        git push -u origin master
+ */
         // Do any additional setup after loading the view, typically from a nib.
     }
 
